@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  color: white;
+  background-color: #007BFF;
+  font-family: 'Arvo', serif;
 }
 
 .App-logo {
@@ -9,7 +12,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -21,6 +23,22 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.headerContainer {
+  width: 100%;
+  text-align: center;
+}
+.pageHeader {
+  font-size: 3em;
+  padding-bottom: 10px;
+}
+.email {
+  padding-bottom: 10px;
+}
+.label {
+  color: #F5F5F5;
+  padding-right: 5px;
 }
 
 @keyframes App-logo-spin {
