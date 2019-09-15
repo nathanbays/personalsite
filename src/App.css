@@ -39,6 +39,7 @@
 .label {
   color: #F5F5F5;
   padding-right: 5px;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
